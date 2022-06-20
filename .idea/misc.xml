@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/drawable/push_item_bg.xml" value="0.35" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/drawable/search_btn_nopress.xml" value="0.2065" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/drawable/search_btn_pressed.xml" value="0.35" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/drawable/search_btn_selector.xml" value="0.25" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/drawable/topbar.xml" value="0.35" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/drawable/user_info_bg.xml" value="0.35" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/layout/activity_main.xml" value="0.24407894736842106" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/layout/activity_playpage.xml" value="0.38645833333333335" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/layout/activity_pushpage.xml" value="0.38645833333333335" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/layout/activity_search_page.xml" value="0.38645833333333335" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/layout/comment_item.xml" value="0.30416666666666664" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/layout/main_list_item.xml" value="0.38645833333333335" />
+        <entry key="..\:/Programing/AndroidProjects/HomeWork/bilibili/app/src/main/res/layout/search_list_item.xml" value="0.38645833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
